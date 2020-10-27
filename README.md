@@ -2,7 +2,7 @@
 
 # brief-init
 
-Initialiser un environnement de travail pour suivre les cours sur le parcours microsoft :
+Initialiser un environnement de travail sur la plateforme Azure pour suivre les cours sur le parcours microsoft :
 - [Créer des solutions d’IA avec Azure Machine Learning](https://docs.microsoft.com/fr-fr/learn/paths/build-ai-solutions-with-azure-ml-service/)
 - [Créer des modèles Machine Learning](https://docs.microsoft.com/fr-fr/learn/paths/create-machine-learn-models/)
 
