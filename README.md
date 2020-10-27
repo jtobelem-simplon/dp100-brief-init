@@ -20,7 +20,17 @@ dp100
 
 ## Contexte du projet
 
-Pour initialiser la préparation à la certification dp100.
+Pour initialiser la préparation à la certification dp100, suivez les étapes suivantes :
+- connectez-vous à votre workspace Machine Learning dans le groupe de ressources de votre promo
+- créez une instance de calcul de type : STANDARD_DS11_V2 (nom : standard-ds11-v2-XX avec XX vos initiales)
+- lancez le notebook jupyter depuis cette machine
+- lancez un terminal depuis le notebook (menu new)
+- allez dans votre dossier (cd Users/XXX)
+- clonez https://github.com/MicrosoftDocs/mslearn-aml-labs.git
+- clonez https://github.com/microsoftdocs/ml-basics
+- suivez maintenant les cours du parcours microsoft et exécutez les notebooks correspondants dans votre environnement configuré
+
+![à vous de jouer](img/a-vous.png)
 
 
 ## Modalités pédagogiques
