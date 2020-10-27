@@ -1,3 +1,5 @@
+![dp100 image](img/dp100.png)
+
 # brief-init
 
 Initialiser un environnement de travail pour suivre les cours sur le parcours microsoft :
@@ -6,7 +8,7 @@ Initialiser un environnement de travail pour suivre les cours sur le parcours mi
 
 ## Livrables
 
-Une capture d'écran comme celle-ci du studio avec les deux repos installés :
+Une capture d'écran comme ci-dessous du studio avec les deux repos installés :
 - [mslearn-aml-labs](https://github.com/MicrosoftDocs/mslearn-aml-labs.git)
 - [ml-basics](https://github.com/microsoftdocs/ml-basics)
 
