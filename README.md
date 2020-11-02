@@ -6,6 +6,8 @@ Initialiser un environnement de travail sur la plateforme Azure pour suivre les 
 - [Créer des solutions d’IA avec Azure Machine Learning](https://docs.microsoft.com/fr-fr/learn/paths/build-ai-solutions-with-azure-ml-service/)
 - [Créer des modèles Machine Learning](https://docs.microsoft.com/fr-fr/learn/paths/create-machine-learn-models/)
 
+La documentation pour ce projet ce trouve [ici](doc/dp100.pdf).
+
 ## Livrables
 
 Une capture d'écran comme ci-dessous du studio avec les deux repos installés :
